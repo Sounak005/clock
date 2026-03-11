@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import ttk
 from datetime import datetime
 import pygame
+#Hello again its been 2 years now in the game
 
 #Initializing our audio mixer and setting the wav alarm file we want it to play when the alarm goes off
 pygame.mixer.init(42050, -16, 2, 2048)
